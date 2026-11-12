@@ -69,7 +69,7 @@
       "email": "auditswarm@nearhackathon.io",
       "size": "2 - 4",
       "tracks": ["swarms", "security", "agents"],
-      "nearAddress": "auditswarm.near",
+      "nearAddress": "f31de5ef7343764e59d56e437583a5f17fdc147d31b47dad0ed0568b058d489a",
       "projectUrl": "https://github.com/<YOUR_ORG>/auditswarm",
       "demoUrl": "https://x.com/<YOUR_HANDLE>/status/<ID>",
       "idea": "Smart contract security auditing is prohibitively expensive ($50k-$250k) and slow, while single-agent LLM scanners produce >45% false positives and miss NEAR-specific asynchronous nuances. We built AuditSwarm: an autonomous multi-agent adversarial debate engine powered by LangGraph and NEAR Protocol. Five specialized AI personas—Swarm Coordinator, Static Hunter, Economic Exploit Agent, Red-Team Critic, and Arbiter—engage in multi-turn adversarial rounds to uncover vulnerabilities, formulate exploit scenarios, and cross-examine proposed issues against NEAR runtime specs. Verified findings earn cryptographic consensus scores. NEAR enables true autonomous agent custody via sub-accounts (coordinator, hunter, critic, economic.auditswarm-9003.testnet) with automated signed micro-bounties settled on-chain.",
