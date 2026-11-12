@@ -1,0 +1,45 @@
+# Secrets and Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+*.env.txt
+.env.local.txt
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# NEAR Credentials (Crucial!)
+.near-credentials/
+*.key
+*.pem
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

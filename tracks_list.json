@@ -1,0 +1,210 @@
+[
+  {
+    "name": "01-defi.md",
+    "path": "tracks/01-defi.md",
+    "sha": "48c48953af52f01076d7e5741d09bc939f91d499",
+    "size": 1792,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/01-defi.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/01-defi.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/48c48953af52f01076d7e5741d09bc939f91d499",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/01-defi.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/01-defi.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/48c48953af52f01076d7e5741d09bc939f91d499",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/01-defi.md"
+    }
+  },
+  {
+    "name": "02-thesis.md",
+    "path": "tracks/02-thesis.md",
+    "sha": "06938751b2aec5a3dd5d3b2a0cf7248300eaff20",
+    "size": 1940,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/02-thesis.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/02-thesis.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/06938751b2aec5a3dd5d3b2a0cf7248300eaff20",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/02-thesis.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/02-thesis.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/06938751b2aec5a3dd5d3b2a0cf7248300eaff20",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/02-thesis.md"
+    }
+  },
+  {
+    "name": "03-privacy.md",
+    "path": "tracks/03-privacy.md",
+    "sha": "7c6e7c0ed3c1965b2306fa5871ac35ac385b1d0f",
+    "size": 1556,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/03-privacy.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/03-privacy.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/7c6e7c0ed3c1965b2306fa5871ac35ac385b1d0f",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/03-privacy.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/03-privacy.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/7c6e7c0ed3c1965b2306fa5871ac35ac385b1d0f",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/03-privacy.md"
+    }
+  },
+  {
+    "name": "04-business.md",
+    "path": "tracks/04-business.md",
+    "sha": "c6fb90837210c2d5b1981718e465975f71ab717f",
+    "size": 1768,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/04-business.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/04-business.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/c6fb90837210c2d5b1981718e465975f71ab717f",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/04-business.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/04-business.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/c6fb90837210c2d5b1981718e465975f71ab717f",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/04-business.md"
+    }
+  },
+  {
+    "name": "05-swarms.md",
+    "path": "tracks/05-swarms.md",
+    "sha": "ce225b17cd3d6590768be329bdada14499a12b0c",
+    "size": 1605,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/05-swarms.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/05-swarms.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/ce225b17cd3d6590768be329bdada14499a12b0c",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/05-swarms.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/05-swarms.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/ce225b17cd3d6590768be329bdada14499a12b0c",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/05-swarms.md"
+    }
+  },
+  {
+    "name": "06-security.md",
+    "path": "tracks/06-security.md",
+    "sha": "02c9d0618b8e446bab20576b38c55f62293f8557",
+    "size": 1894,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/06-security.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/06-security.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/02c9d0618b8e446bab20576b38c55f62293f8557",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/06-security.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/06-security.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/02c9d0618b8e446bab20576b38c55f62293f8557",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/06-security.md"
+    }
+  },
+  {
+    "name": "07-agents.md",
+    "path": "tracks/07-agents.md",
+    "sha": "306bb48c66dd49693c219dfb89baab052b94c155",
+    "size": 2198,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/07-agents.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/07-agents.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/306bb48c66dd49693c219dfb89baab052b94c155",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/07-agents.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/07-agents.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/306bb48c66dd49693c219dfb89baab052b94c155",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/07-agents.md"
+    }
+  },
+  {
+    "name": "08-realworld.md",
+    "path": "tracks/08-realworld.md",
+    "sha": "445f497f2318484d2ac39bc80b5827bda10b2bc0",
+    "size": 1737,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/08-realworld.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/08-realworld.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/445f497f2318484d2ac39bc80b5827bda10b2bc0",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/08-realworld.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/08-realworld.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/445f497f2318484d2ac39bc80b5827bda10b2bc0",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/08-realworld.md"
+    }
+  },
+  {
+    "name": "09-games.md",
+    "path": "tracks/09-games.md",
+    "sha": "56c7f217ef4bc6c5058b61f9e5da861e12d2b318",
+    "size": 1563,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/09-games.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/09-games.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/56c7f217ef4bc6c5058b61f9e5da861e12d2b318",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/09-games.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/09-games.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/56c7f217ef4bc6c5058b61f9e5da861e12d2b318",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/09-games.md"
+    }
+  },
+  {
+    "name": "10-nfts.md",
+    "path": "tracks/10-nfts.md",
+    "sha": "01f0a3f3e034940e569d2d992fa4cc2a5a5e163d",
+    "size": 1895,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/10-nfts.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/10-nfts.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/01f0a3f3e034940e569d2d992fa4cc2a5a5e163d",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/10-nfts.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/10-nfts.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/01f0a3f3e034940e569d2d992fa4cc2a5a5e163d",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/10-nfts.md"
+    }
+  },
+  {
+    "name": "11-memecoins.md",
+    "path": "tracks/11-memecoins.md",
+    "sha": "3143c0525b8cf20c1edac60040f6897c2b9b5b38",
+    "size": 1563,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/11-memecoins.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/11-memecoins.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/3143c0525b8cf20c1edac60040f6897c2b9b5b38",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/11-memecoins.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/11-memecoins.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/3143c0525b8cf20c1edac60040f6897c2b9b5b38",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/11-memecoins.md"
+    }
+  },
+  {
+    "name": "12-social.md",
+    "path": "tracks/12-social.md",
+    "sha": "b6ba4dc95e72821cb8c018149c6dad240d5f92b7",
+    "size": 1938,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/12-social.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/12-social.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/b6ba4dc95e72821cb8c018149c6dad240d5f92b7",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/12-social.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/12-social.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/b6ba4dc95e72821cb8c018149c6dad240d5f92b7",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/12-social.md"
+    }
+  },
+  {
+    "name": "13-open.md",
+    "path": "tracks/13-open.md",
+    "sha": "c8444e7c394c29bc505c540eaf8db11a76721125",
+    "size": 1448,
+    "url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/13-open.md?ref=main",
+    "html_url": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/13-open.md",
+    "git_url": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/c8444e7c394c29bc505c540eaf8db11a76721125",
+    "download_url": "https://raw.githubusercontent.com/nearai/near-hackathon-prompt-examples/main/tracks/13-open.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/contents/tracks/13-open.md?ref=main",
+      "git": "https://api.github.com/repos/nearai/near-hackathon-prompt-examples/git/blobs/c8444e7c394c29bc505c540eaf8db11a76721125",
+      "html": "https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/13-open.md"
+    }
+  }
+]

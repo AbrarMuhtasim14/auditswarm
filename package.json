@@ -1,0 +1,30 @@
+{
+  "name": "auditswarm",
+  "version": "1.0.0",
+  "description": "AuditSwarm: Autonomous Multi-Agent Adversarial Smart Contract Auditing Swarm on NEAR Protocol",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "setup:backend": "cd backend && uv pip install -r requirements.txt",
+    "setup:frontend": "cd frontend && npm install",
+    "dev": "node scripts/dev.js",
+    "dev:backend": "cd backend && uv run uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "dev:frontend": "cd frontend && npm run dev",
+    "demo": "node scripts/demo.js",
+    "demo:cli": "cd backend && uv run python -m app.cli_demo",
+    "test": "node scripts/test.js",
+    "test:backend": "cd backend && uv run pytest",
+    "test:frontend": "cd frontend && npm run lint"
+  },
+  "keywords": [
+    "near",
+    "blockchain",
+    "multi-agent",
+    "adversarial",
+    "smart-contract-audit",
+    "langgraph",
+    "ai-agents"
+  ],
+  "author": "AuditSwarm Team",
+  "license": "MIT"
+}
