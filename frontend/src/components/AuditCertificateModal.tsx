@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { X, Check, Copy, Download, Award, ShieldCheck, ExternalLink, Terminal } from "lucide-react";
+import { X, Check, Copy, Download, Award, ExternalLink, Terminal } from "lucide-react";
 import { ArbiterVerdict, AgentPayout, AgentFinding } from "@/types/audit";
 
 interface AuditCertificateModalProps {

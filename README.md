@@ -152,10 +152,10 @@ npm run demo
 ╔════════════╤════════════╤════════════╤═════════════╤═══════════╤════════════════════════════╗
 ║ Agent      │ Contrib. % │     Reward │ Account ID  │ Status    │ Tx Hash (NearBlocks)       ║
 ╟────────────┼────────────┼────────────┼─────────────┼───────────┼────────────────────────────╢
-║ Coordinator│      15.0% │     0.1500 │ coordinator │ CONFIRMED │ HgL53DGTd...               ║
-║ Hunter     │      35.0% │     0.3500 │ hunter      │ CONFIRMED │ Gyp9CpELV...               ║
-║ Economic   │      25.0% │     0.2500 │ economic    │ CONFIRMED │ 5buAJezVG...               ║
-║ Critic     │      25.0% │     0.2500 │ critic      │ CONFIRMED │ BFkKxcXaq...               ║
+║ Coordinator│      15.0% │     0.1500 │ coordinator │ CONFIRMED │ C1Q2oSU2neL9d9KEoFoPJ7...  ║
+║ Hunter     │      35.0% │     0.3500 │ hunter      │ CONFIRMED │ 6ZpXNcLqYjgerfqERc6Jc...   ║
+║ Economic   │      25.0% │     0.2500 │ economic    │ CONFIRMED │ Ga8XZqJbfPpx8ETYMBBGy...   ║
+║ Critic     │      25.0% │     0.2500 │ critic      │ CONFIRMED │ 3VLypdJpCwPoYfiKSTjJG...   ║
 ╚════════════╧════════════╧════════════╧═════════════╧═══════════╧════════════════════════════╝
 
 Consensus Score: 40/100 (CRITICAL_RISK)
@@ -228,11 +228,11 @@ All payouts are authentic signed transactions on NEAR Testnet:
 
 | Role | Account ID | Verified Transaction Hash | NearBlocks Explorer Link |
 | :--- | :--- | :--- | :--- |
-| **Master Treasury** | `auditswarm-9003.testnet` | `KY1aLGaUrj4EZHtt92ftU2xbNUQW4QzLMQfMpUL9sbS` | [View Transaction](https://testnet.nearblocks.io/txns/KY1aLGaUrj4EZHtt92ftU2xbNUQW4QzLMQfMpUL9sbS) |
-| **Swarm Coordinator** | `coordinator.auditswarm-9003.testnet` | `HgL53DGTdmNqH5tE4R4V47uRk5pL3kE4K2L6P` | [View Address](https://testnet.nearblocks.io/address/coordinator.auditswarm-9003.testnet) |
-| **Static Hunter** | `hunter.auditswarm-9003.testnet` | `Gyp9CpELVyKx5L2R8Q1M4P3kE7N9J2D4F6H` | [View Address](https://testnet.nearblocks.io/address/hunter.auditswarm-9003.testnet) |
-| **Economic Exploit** | `economic.auditswarm-9003.testnet` | `5buAJezVGsL6N8P2M4K3D7F9J1H4K2L6P` | [View Address](https://testnet.nearblocks.io/address/economic.auditswarm-9003.testnet) |
-| **Red-Team Critic** | `critic.auditswarm-9003.testnet` | `Ew9LQRvVcBcwamjkqZYhBZ4Pc1wcgB1GYFpbRVdwQvoh` | [View Transaction](https://testnet.nearblocks.io/txns/Ew9LQRvVcBcwamjkqZYhBZ4Pc1wcgB1GYFpbRVdwQvoh) |
+| **Master Treasury** | `auditswarm-9003.testnet` | `C1Q2oSU2neL9d9KEoFoPJ7HpThNJYydA8yqx95inidx3` | [View Transaction](https://testnet.nearblocks.io/txns/C1Q2oSU2neL9d9KEoFoPJ7HpThNJYydA8yqx95inidx3) |
+| **Swarm Coordinator** | `coordinator.auditswarm-9003.testnet` | `C1Q2oSU2neL9d9KEoFoPJ7HpThNJYydA8yqx95inidx3` | [View Transaction](https://testnet.nearblocks.io/txns/C1Q2oSU2neL9d9KEoFoPJ7HpThNJYydA8yqx95inidx3) |
+| **Static Hunter** | `hunter.auditswarm-9003.testnet` | `6ZpXNcLqYjgerfqERc6JcubM8JrKBzz7jj47gDrdTkei` | [View Transaction](https://testnet.nearblocks.io/txns/6ZpXNcLqYjgerfqERc6JcubM8JrKBzz7jj47gDrdTkei) |
+| **Economic Exploit** | `economic.auditswarm-9003.testnet` | `Ga8XZqJbfPpx8ETYMBBGy8EinMtqZxQ2uU6ZWzdAy9kX` | [View Transaction](https://testnet.nearblocks.io/txns/Ga8XZqJbfPpx8ETYMBBGy8EinMtqZxQ2uU6ZWzdAy9kX) |
+| **Red-Team Critic** | `critic.auditswarm-9003.testnet` | `3VLypdJpCwPoYfiKSTjJGtBmwBxtN8G4JEHEY2CuDn33` | [View Transaction](https://testnet.nearblocks.io/txns/3VLypdJpCwPoYfiKSTjJGtBmwBxtN8G4JEHEY2CuDn33) |
 
 ---
 

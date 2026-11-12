@@ -218,7 +218,7 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="NEAR Multi-Agent Adversarial Audit Swarm CLI")
     parser.add_argument("--contract", "-c", default="VulnerableVault.rs", help="Contract filename in test_contracts/")
-    parser.add_argument("--bounty", "-b", type=float, default=1.0, help="Bounty pool in NEAR")
+    parser.add_argument("--bounty", "-b", type=float, default=0.1, help="Bounty pool in NEAR")
     args = parser.parse_args()
 
     asyncio.run(run_cli_audit(args.contract, args.bounty))

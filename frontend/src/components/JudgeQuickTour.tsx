@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Sparkles, ShieldAlert, ShieldCheck, Zap, Play } from "lucide-react";
+import { Sparkles, ShieldAlert, ShieldCheck, Zap } from "lucide-react";
 
 interface JudgeQuickTourProps {
   onSelectPreset: (presetId: "inflation" | "reentrancy" | "secure") => void;
