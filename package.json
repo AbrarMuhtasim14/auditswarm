@@ -26,5 +26,8 @@
     "ai-agents"
   ],
   "author": "AuditSwarm Team",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  }
 }

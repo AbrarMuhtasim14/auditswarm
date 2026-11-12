@@ -39,10 +39,11 @@
 ---
 
 ## 3. The Demo Post on X (Twitter)
-- [ ] Record a 1 to 2 minute clean demo video showing:
-  1. Running `npm run demo` in terminal with Rich table output, debate turns, and live testnet transaction hashes.
-  2. Running `npm run dev` and loading `VulnerableVault.rs` in the 3-column Next.js web dashboard.
-  3. Clicking on-chain NearBlocks explorer links to confirm real testnet transaction confirmations.
+- [x] Record a 1 to 2 minute clean demo video showing:
+  1. Full high-fidelity live dashboard walkthrough (`recordings/near_audit_swarm_demo.mp4`, 1080p 60s, H.264 web-ready).
+  2. Running preset contract `VulnerableVault.rs` through 5-agent LangGraph adversarial debate stream.
+  3. Interactive tab filtering, Vulnerability Deep-Dive code diff drawer, and Cryptographic Certificate modal.
+  4. Real-time NEAR testnet agent sub-account balances and NearBlocks settlement receipts.
 - [ ] Publish public tweet on X:
   - Mention it was built at **NEAR HACKATHON**.
   - Tag `@NEARProtocol` and `#NEARHackathon` (optional: `@NearBuilders` and `@NearLegion`).
