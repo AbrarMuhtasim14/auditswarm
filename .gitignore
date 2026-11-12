@@ -44,5 +44,7 @@ Thumbs.db
 *.log
 logs/
 
-# Raw WebM screen captures
+# Raw WebM screen captures & temp audio
 recordings/*.webm
+recordings/*.mp3
+recordings/audio/
