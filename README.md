@@ -4,7 +4,7 @@
 > **Eligible Tracks:** `swarms` | `security` | `agents`  
 > **Live Testnet Deployment:** `auditswarm-9003.testnet` and 4 sub-accounts on NEAR Testnet  
 > **NearBlocks Explorer:** [https://testnet.nearblocks.io/address/auditswarm-9003.testnet](https://testnet.nearblocks.io/address/auditswarm-9003.testnet)  
-> **Live UI Demo Video:** [`recordings/near_audit_swarm_demo.mp4`](./recordings/near_audit_swarm_demo.mp4) (Full 1080p 60s walkthrough)
+> **Live UI Demo Video:** [`recordings/near_audit_swarm_demo.mp4`](./recordings/near_audit_swarm_demo.mp4) (Full 1080p narrated walkthrough with studio voiceover & sound)
 
 ---
 
