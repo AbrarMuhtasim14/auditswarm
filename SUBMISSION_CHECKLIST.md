@@ -59,7 +59,7 @@
   node -e "console.log(crypto.randomUUID())"
   ```
 - [x] Validate JSON body (**Ensure NO `"website"` key is present — it is an anti-spam honeypot!**).
-- [ ] Submit via curl or web form at `https://nearhackathon.com/#apply`:
+- [x] Submit via curl or web form at `https://nearhackathon.com/#apply`:
   ```bash
   curl -sS -X POST https://nearhackathon.com/api/applications \
     -H 'Content-Type: application/json' \
@@ -77,4 +77,4 @@
       "consent": true
     }'
   ```
-- [ ] Verify `201 Created` response.
+- [x] **Verified `201 Created` response** (Application successfully confirmed on 2026-11-13; recorded as submission #931 in official registry).
